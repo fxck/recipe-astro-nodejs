@@ -4,6 +4,9 @@
 
 A Node.js Astro app deployment example for [Zerops](https://zerops.io) - a developer first cloud platform.
 
+as
+
+
 ## Deploy to Zerops
 
 1. [Create an account](https://app.zerops.io/registration) and locate the "Import project" button in the top left menu.
